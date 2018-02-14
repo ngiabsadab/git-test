@@ -4,5 +4,9 @@ test1{
 }
 
 test2{
-    console.log('test2')
+    console.log('xxxxxx')
+}
+
+test3{
+    console.log('test3')
 }
